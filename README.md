@@ -79,13 +79,13 @@
 
 <br>
 
-## 🪴 Практика и стажировка
+##  Практика 
 [<img src="/25-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/VictorAnsimov/VictorAnsimov/refs/heads/main/25-en.png)
 
 <br>
 
 
-## 🤝 Контакт
+## 🤝 Контакты
 [![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ankharan@mail.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Ansimov_V)
 
