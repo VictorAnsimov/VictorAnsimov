@@ -17,6 +17,20 @@
 
 <br>
 
+## 🧪 Автотесты
+
+<div>
+  <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-18bcbc5be7af.png" title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="Pytest" alt="Pytest" width="40" height="40"/>&nbsp
+  <img src="https://docs.qameta.io/allure/images/allure.png" title="Allure" alt="Allure" width="40" height="40"/>&nbsp
+  <img src="https://github.com/valentine/playwright/blob/main/.github/logo.png" title="Playwright" alt="Playwright" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="VS Code" alt="VS Code" width="40" height="40"/>&nbsp
+  <img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-39ec-4f5f-b4b0-8c1cb29f39a4.png" title="Linux" alt="Linux" width="40" height="40"/>&nbsp
+  <img src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" title="Git" alt="Git" width="40" height="40"/>&nbsp
+  <img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/GitLab-Dark.svg" title="GitLab CI" alt="GitLab CI" width="40" height="40"/>&nbsp
+</div>
+
 ## Тестирование API и интеграций
 <div>
   <img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" title="Postman" alt="Postman" width="40" height="40"/>&nbsp
@@ -63,12 +77,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/DBeaver_logo.svg/512px-DBeaver_logo.svg.png" title="DBeaver" alt="DBeaver" width="40" height="40"/>&nbsp
 </div>
 
-## Автотесты
-<div>
-  <img src="https://user-images.githubusercontent.com/68279555/200387386-276c709f-380b-46cc-81fd-f292985927a8.png" title="Cypress" alt="Cypress" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" title="Selenium" alt="Selenium" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/184117132-9e89a93b-65fb-47c3-91e7-7d0f99e7c066.png" title="pytest" alt="pytest" width="40" height="40"/>&nbsp
-  <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" title="Visual Studio Code" alt="Visual Studio Code" width="40" height="40"/>&nbsp
+
 
   
 </div>
