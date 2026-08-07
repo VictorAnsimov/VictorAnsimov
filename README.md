@@ -106,8 +106,8 @@
 
 
 ## 🤝 Контакты
-[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](mailto:ankharan@mail.ru)
+[![Email](https://img.shields.io/badge/Email-3b5998?style=flat-square&logo=Mail.Ru&logoColor=white)](https://e.mail.ru/inbox/?to=ankharan@mail.ru)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/Ansimov_V)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:victoransimov@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=victoransimov@gmail.com)
 
 <!-- Документация по виджету контактов ↑↑ https://shields.io/badges --> 
