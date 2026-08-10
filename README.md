@@ -95,6 +95,8 @@
 [<img src="/25-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/VictorAnsimov/VictorAnsimov/refs/heads/main/25-en.png)
 [<img src="/25_kanaly-en.png" width="280px" hspace="10px" alt="Сертификат об окончании стажировки»">](https://raw.githubusercontent.com/VictorAnsimov/VictorAnsimov/refs/heads/main/25_kanaly-en.png)
 
+[<img src="/049ae0fb75b.png" width="280px" hspace="10px" alt="Сертификат по автоматизации тестирования">](https://raw.githubusercontent.com/VictorAnsimov/VictorAnsimov/refs/heads/main/049ae0fb75b.png)
+
 
 
 
